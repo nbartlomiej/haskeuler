@@ -1,0 +1,32 @@
+=Haskeuler
+
+==About
+
+This project contains Haskell solutions to some of the Project Euler's problems
+(http://projecteuler.net/problems).
+
+Browsing the source will most likely spoil some of the fun of solving Project
+Euler problems by yourself. One the other hand, it may inspire the Reader to
+correct my code or to solve remaining riddles.
+
+==Constraints
+
+All programs should meet the following requirements:
+
+* The number one priority is code readability.
+* When run via runhaskell the execution time must not exceed one minute.
+
+==Running
+
+Make sure you have Haskell Platform installed
+(http://hackage.haskell.org/platform/). Execute in console:
+
+    $ runhaskell ./001/problem-001.hs
+
+==Contributing
+
+You're invited!
+
+==Bonus for persistent readers of READMEs
+
+http://www.cis.upenn.edu/~byorgey/haskell-alphabet/
