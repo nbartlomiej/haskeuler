@@ -9,6 +9,12 @@ Browsing the source will most likely spoil some of the fun of solving Project
 Euler problems by yourself. One the other hand, it may inspire the Reader to
 correct my code or to solve remaining riddles.
 
+This project serves also as a playground for another experiment, writing
+Haskell code on a mobile device (iPad). Here is a post from my blog with
+more details:
+http://nbartlomiej.com/2012/01/08/why-programming-in-haskell-on-an-ipad-is-a-good-idea/
+.
+
 ==Constraints
 
 All programs should meet the following requirements:
