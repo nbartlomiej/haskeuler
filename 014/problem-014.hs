@@ -1,5 +1,3 @@
--- Needs improvement, runtime was 1m8.267s
-
 import Data.List
 
 next :: Int -> Int

@@ -1,5 +1,3 @@
--- Needs improvement, using external Primes library.
-
 import Data.List
 import Data.Numbers.Primes
 

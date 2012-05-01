@@ -15,13 +15,6 @@ more details:
 http://nbartlomiej.com/2012/01/08/why-programming-in-haskell-on-an-ipad-is-a-good-idea/
 .
 
-==Constraints
-
-All programs should meet the following requirements:
-
-* The number one priority is code readability.
-* When run via runhaskell the execution time must not exceed one minute.
-
 ==Running
 
 Make sure you have Haskell Platform installed
